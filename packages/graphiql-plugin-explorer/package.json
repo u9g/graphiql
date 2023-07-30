@@ -29,7 +29,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "graphiql-explorer": "^0.9.1"
+    "graphiql-explorer": "^0.10.0"
   },
   "peerDependencies": {
     "graphql": "^15.5.0 || ^16.0.0",
